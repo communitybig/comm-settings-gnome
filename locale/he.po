@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "גרוב"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "היזהר, תאבד גישה ל- SnapShots. האם אתה בטוח שאתה רוצה להסתיר את הזבל?"
+
+msgid "Não"
+msgstr "לא"
+
+msgid "Sim"
+msgstr "הן"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "האם תדעו להחזיר את Grub במקרה של כישלון?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "האם תוכל לגשת ל- SnapShots ללא גישה למצב גרף?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "האם אתה בטוח לחלוטין ביישום זה?"
+
+msgid "Aplicando, aguarde..."
+msgstr "הגשת מועמדות, חכה..."
+
+msgid "Concluído!"
+msgstr "לעשות!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את השינויים."
+
+msgid "Desempenho"
+msgstr "ביצועים"
+
+msgid "Aceleração do navegador"
+msgstr "האצת דפדפן"
+
+msgid "Abrir"
+msgstr "פתוח"
+
+msgid "Fechar"
+msgstr "סגור"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "בחר תוכניות לטעינה לזיכרון במהלך האתחול"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr "טען מראש טוען קבצי תוכנית לזיכרון כך שהם יתחילו במהירות. שימוש יתר גורם לאיטיות. בחר באפשרות הרצויה:"
+
+msgid "Ligar RGB do teclado"
+msgstr "חיבור RGB מהמקלדת"
+
+msgid "Automático"
+msgstr "אוטומטי"
+
+msgid "Ativar"
+msgstr "הפעל"
+
+msgid "Desativar"
+msgstr "בטל הפעלה"
+
+msgid "Configurações do Brave"
+msgstr "הגדרות אמיצות"
+
+msgid "Escolha a opção desejada:"
+msgstr "בחר באפשרות הרצויה:"
+
+msgid "Remover propagandas"
+msgstr "הסרת מודעות"
+
+msgid "Suportar criptomoedas"
+msgstr "תמיכה בקריפטו"
+
+msgid "Usabilidade"
+msgstr "שמישות"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "לחצני חלון בצד שמאל"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "הסתר את מנהל האתחול (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "הפעל את NumLock בעת הפעלת המערכת"
+
+msgid "Desativar efeitos"
+msgstr "ביטול אפקטים"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS ללא fsync"
+
+msgid "Modo Desenvolvedor"
+msgstr "מצב מפתח"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "על ידי שימוש בעיבוד תוכנה, איכות השקפים מופחתת."
+
+msgid "Ajustes"
+msgstr "tweaks"

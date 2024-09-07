@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "Larva"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Budite oprezni, izgubit ćete pristup SnapShotovima. Jeste li sigurni da želite sakriti grub?"
+
+msgid "Não"
+msgstr "Ne"
+
+msgid "Sim"
+msgstr "Da"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Hoćete li znati kako vratiti Gruba u slučaju neuspjeha?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Hoćete li moći pristupiti snimkama bez pristupa načinu rada Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Jeste li potpuno sigurni u ovu aplikaciju?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Prijava, čekanje..."
+
+msgid "Concluído!"
+msgstr "Učinjeno!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Ako koristite preglednik, ponovno ga pokrenite da biste primijenili promjene."
+
+msgid "Desempenho"
+msgstr "Izvedba"
+
+msgid "Aceleração do navegador"
+msgstr "Ubrzanje preglednika"
+
+msgid "Abrir"
+msgstr "Otvoren"
+
+msgid "Fechar"
+msgstr "Zatvoriti"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Odaberite programe za učitavanje u memoriju tijekom pokretanja"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Prethodno učitavanje učitava programske datoteke u memoriju tako da brzo počnu. Prekomjerna "
+"upotreba uzrokuje sporost. Odaberite željenu opciju:"
+
+msgid "Ligar RGB do teclado"
+msgstr "Povezivanje RGB-a s tipkovnice"
+
+msgid "Automático"
+msgstr "Auto"
+
+msgid "Ativar"
+msgstr "Aktiviraj"
+
+msgid "Desativar"
+msgstr "Deaktiviraj"
+
+msgid "Configurações do Brave"
+msgstr "Brave postavke"
+
+msgid "Escolha a opção desejada:"
+msgstr "Odaberite željenu opciju:"
+
+msgid "Remover propagandas"
+msgstr "Ukloni oglase"
+
+msgid "Suportar criptomoedas"
+msgstr "Podržite kriptovalute"
+
+msgid "Usabilidade"
+msgstr "Upotrebljivost"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Gumbi prozora na lijevoj strani"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Sakrij upravitelja pokretanja (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Aktivirajte NumLock prilikom uključivanja sustava"
+
+msgid "Desativar efeitos"
+msgstr "Isključivanje efekata"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS bez fsynca"
+
+msgid "Modo Desenvolvedor"
+msgstr "Način rada za razvojne inženjere"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
+
+msgid "Ajustes"
+msgstr "ugađanje"

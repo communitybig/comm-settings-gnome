@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "Личинка"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Будьте обережні, ви втратите доступ до SnapShots. Ви впевнені, що хочете приховати личинку?"
+
+msgid "Não"
+msgstr "Ні"
+
+msgid "Sim"
+msgstr "Так"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Чи будете ви знати, як повернути Grub в разі невдачі?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Чи зможете ви отримати доступ до знімків без доступу до режиму графіка?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Ви повністю впевнені в цій програмі?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Подаючи заявку, почекайте..."
+
+msgid "Concluído!"
+msgstr "Зробити!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Якщо ви використовуєте браузер, перезапустіть його, щоб застосувати зміни."
+
+msgid "Desempenho"
+msgstr "Продуктивність"
+
+msgid "Aceleração do navegador"
+msgstr "прискорення браузера"
+
+msgid "Abrir"
+msgstr "Відкривати"
+
+msgid "Fechar"
+msgstr " Закрити"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Виберіть програми для завантаження в пам'ять під час завантаження"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Попереднє завантаження завантажує програмні файли в пам’ять, щоб вони швидко запускалися. Надмірне "
+"використання викликає уповільнення. Виберіть потрібний варіант:"
+
+msgid "Ligar RGB do teclado"
+msgstr "Підключення RGB з клавіатури"
+
+msgid "Automático"
+msgstr "Автоматичний"
+
+msgid "Ativar"
+msgstr "активувати"
+
+msgid "Desativar"
+msgstr "вимкнути"
+
+msgid "Configurações do Brave"
+msgstr "Brave Settings"
+
+msgid "Escolha a opção desejada:"
+msgstr "Виберіть потрібний варіант:"
+
+msgid "Remover propagandas"
+msgstr "видалити рекламу"
+
+msgid "Suportar criptomoedas"
+msgstr "підтримка криптовалюти"
+
+msgid "Usabilidade"
+msgstr "Зручність використання"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Кнопки вікна з лівого боку"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Приховати менеджер завантаження (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Активуйте NumLock при включенні системи"
+
+msgid "Desativar efeitos"
+msgstr "Вимкнення ефектів"
+
+msgid "BTRFS sem fsync"
+msgstr "БТРФ без фсинк"
+
+msgid "Modo Desenvolvedor"
+msgstr "Режим розробника"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "Використання програмного рендеринга знижує якість прозорих плівк."
+
+msgid "Ajustes"
+msgstr "Налаштування"

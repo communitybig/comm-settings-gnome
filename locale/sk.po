@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "Žrádlo"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Buďte opatrní, stratíte prístup k SnapShots. Naozaj chcete skryť grub?"
+
+msgid "Não"
+msgstr "Nie"
+
+msgid "Sim"
+msgstr "Áno"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Budete vedieť, ako vrátiť Grub v prípade zlyhania?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Budete mať prístup k SnapShots bez prístupu k režimu Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Ste si touto aplikáciou úplne istí?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Aplikácia, počkajte..."
+
+msgid "Concluído!"
+msgstr "Robené!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Ak používate prehliadač, reštartujte ho, aby ste použili zmeny."
+
+msgid "Desempenho"
+msgstr "Výkon"
+
+msgid "Aceleração do navegador"
+msgstr "Zrýchlenie prehliadača"
+
+msgid "Abrir"
+msgstr "Otvorený"
+
+msgid "Fechar"
+msgstr "Zatvoriť"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Výber programov, ktoré sa majú načítať do pamäte pri štarte systému"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Predbežné načítanie načíta súbory programu do pamäte, aby sa rýchlo spustili. Nadmerné používanie "
+"spôsobuje spomalenie. Vyberte požadovanú možnosť:"
+
+msgid "Ligar RGB do teclado"
+msgstr "Pripojenie RGB z klávesnice"
+
+msgid "Automático"
+msgstr "Automatické"
+
+msgid "Ativar"
+msgstr "Aktivácia stránky"
+
+msgid "Desativar"
+msgstr "Deaktivácia stránky"
+
+msgid "Configurações do Brave"
+msgstr "Odvážne konfigurácie"
+
+msgid "Escolha a opção desejada:"
+msgstr "Vyberte požadovanú možnosť:"
+
+msgid "Remover propagandas"
+msgstr "Odstránenie reklám"
+
+msgid "Suportar criptomoedas"
+msgstr "Podpora kryptomien"
+
+msgid "Usabilidade"
+msgstr "Použiteľnosť"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Tlačidlá okna na ľavej strane"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Skrytie správcu zavádzania systému (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Povolenie funkcie NumLock pri spustení systému"
+
+msgid "Desativar efeitos"
+msgstr "Vypnutie efektov"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS bez fsync"
+
+msgid "Modo Desenvolvedor"
+msgstr "Režim vývojára"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "Pri softvérovom vykresľovaní sa znižuje kvalita priehľadov."
+
+msgid "Ajustes"
+msgstr "Nastavenia"

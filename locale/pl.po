@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "Larwa"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Uważaj, stracisz dostęp do SnapShots. Czy na pewno chcesz ukryć żarcie?"
+
+msgid "Não"
+msgstr "Nie"
+
+msgid "Sim"
+msgstr "Tak"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Czy będziesz wiedział, jak zwrócić Gruba w przypadku awarii?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Czy będziesz mieć dostęp do SnapShots bez dostępu do trybu Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Czy jesteś całkowicie pewien tej aplikacji?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Aplikując, czekaj..."
+
+msgid "Concluído!"
+msgstr "Gotowy!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Jeśli używasz przeglądarki, uruchom ją ponownie, aby zastosować zmiany."
+
+msgid "Desempenho"
+msgstr "Wydajność"
+
+msgid "Aceleração do navegador"
+msgstr "Przyspieszenie przeglądarki"
+
+msgid "Abrir"
+msgstr "Otwierać"
+
+msgid "Fechar"
+msgstr "Zamknij"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Wybór programów, które będą ładowane do pamięci przy starcie systemu"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Preload ładuje pliki programów do pamięci, aby szybko się uruchamiały. Nadmierne użycie powoduje "
+"spowolnienia. Wybrać żądaną opcję:"
+
+msgid "Ligar RGB do teclado"
+msgstr "Podłącz RGB z klawiatury"
+
+msgid "Automático"
+msgstr "Automatyczny"
+
+msgid "Ativar"
+msgstr "Aktywuj"
+
+msgid "Desativar"
+msgstr "Dezaktywuj"
+
+msgid "Configurações do Brave"
+msgstr "Odważne konfiguracje"
+
+msgid "Escolha a opção desejada:"
+msgstr "Wybrać żądaną opcję:"
+
+msgid "Remover propagandas"
+msgstr "Usunąć reklamy"
+
+msgid "Suportar criptomoedas"
+msgstr "Wsparcie dla kryptowalut"
+
+msgid "Usabilidade"
+msgstr "Usability"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Przyciski okienne po lewej stronie"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Hide Boot Manager (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Włączenie NumLock przy uruchamianiu systemu"
+
+msgid "Desativar efeitos"
+msgstr "Wyłączanie efektów"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS bez fsync"
+
+msgid "Modo Desenvolvedor"
+msgstr "Tryb dewelopera"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "Przy renderowaniu programowym jakość przezroczy jest obniżona."
+
+msgid "Ajustes"
+msgstr "Ustawienia"

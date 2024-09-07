@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Grub"
+msgstr "Κάμπια"
+
+msgid "Cuidado, você perderá acesso aos SnapShots. Tem certeza que deseja ocultar o grub?"
+msgstr "Προσέξτε, θα χάσετε την πρόσβαση στο SnapShots. Είστε σίγουροι ότι θέλετε να κρύψετε το grub;"
+
+msgid "Não"
+msgstr "Όχι"
+
+msgid "Sim"
+msgstr "Ναι"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Θα ξέρετε πώς να επιστρέψετε το Grub σε περίπτωση αποτυχίας;"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Θα μπορείτε να έχετε πρόσβαση στο SnapShots χωρίς πρόσβαση στη λειτουργία γραφήματος;"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Είστε απόλυτα σίγουροι για αυτήν την εφαρμογή;"
+
+msgid "Aplicando, aguarde..."
+msgstr "Αίτηση, περιμένετε..."
+
+msgid "Concluído!"
+msgstr "Έγινε!"
+
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Εάν χρησιμοποιείτε πρόγραμμα περιήγησης, επανεκκινήστε το για να εφαρμόσετε τις αλλαγές."
+
+msgid "Desempenho"
+msgstr "Εκτέλεση"
+
+msgid "Aceleração do navegador"
+msgstr "Επιτάχυνση του προγράμματος περιήγησης"
+
+msgid "Abrir"
+msgstr "Ανοίγω"
+
+msgid "Fechar"
+msgstr "Κλείστε το"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Επιλέξτε προγράμματα που θα φορτωθούν στη μνήμη κατά την εκκίνηση"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem rapidamente. O uso excessivo "
+"causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Η προφόρτωση φορτώνει τα αρχεία του προγράμματος στη μνήμη, ώστε να ξεκινήσει γρήγορα. Η υπερβολική "
+"χρήση προκαλεί επιβραδύνσεις. Επιλέξτε την επιθυμητή επιλογή:"
+
+msgid "Ligar RGB do teclado"
+msgstr "Σύνδεση RGB από πληκτρολόγιο"
+
+msgid "Automático"
+msgstr "Αυτόματο"
+
+msgid "Ativar"
+msgstr "Ενεργοποίηση"
+
+msgid "Desativar"
+msgstr "Απενεργοποίηση"
+
+msgid "Configurações do Brave"
+msgstr "Γενναίες διαμορφώσεις"
+
+msgid "Escolha a opção desejada:"
+msgstr "Επιλέξτε την επιθυμητή επιλογή:"
+
+msgid "Remover propagandas"
+msgstr "Αφαίρεση διαφημίσεων"
+
+msgid "Suportar criptomoedas"
+msgstr "Υποστήριξη κρυπτονομισμάτων"
+
+msgid "Usabilidade"
+msgstr "Ευχρηστία"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Κουμπιά παραθύρου στην αριστερή πλευρά"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Απόκρυψη του διαχειριστή εκκίνησης (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Ενεργοποίηση του NumLock κατά την εκκίνηση του συστήματος"
+
+msgid "Desativar efeitos"
+msgstr "Απενεργοποίηση εφέ"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS χωρίς fsync"
+
+msgid "Modo Desenvolvedor"
+msgstr "Λειτουργία προγραμματιστή"
+
+msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
+msgstr "Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών μειώνεται."
+
+msgid "Ajustes"
+msgstr "Ρυθμίσεις"
